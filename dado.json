@@ -1,6 +1,8 @@
 {
     "id": 1,
-    "name": "joao",
-    "idade": 37,
-    "fotoPerfil": "https://th.bing.com/th/id/R.1d5e587b6c46246f4d625cdfe128231a?rik=za97t%2bOr0JvnXA&riu=http%3a%2f%2f2.bp.blogspot.com%2f-HmkggbpfLLY%2fUaYfPBJZpEI%2fAAAAAAAAAtM%2fM-FdQBhiF2o%2fs1600%2fchora.jpg&ehk=xJyI3bfQ%2b6sfXMT70WSu3QazrIpZyk7EdcQGjfz%2fLoY%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1"
+    "author": "joao",
+    "title": 37,
+    "fotoPerfil": "https://th.bing.com/th/id/R.1d5e587b6c46246f4d625cdfe128231a?rik=za97t%2bOr0JvnXA&riu=http%3a%2f%2f2.bp.blogspot.com%2f-HmkggbpfLLY%2fUaYfPBJZpEI%2fAAAAAAAAAtM%2fM-FdQBhiF2o%2fs1600%2fchora.jpg&ehk=xJyI3bfQ%2b6sfXMT70WSu3QazrIpZyk7EdcQGjfz%2fLoY%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1",
+    "likes": 10,
+    "comments": 5
 }
