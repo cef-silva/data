@@ -8,7 +8,16 @@
     "course": "BICT",
     "yearCourseStart": 2018,
     "yearCourseEnd": 2021
-  }],
+  }, 
+             {
+    "idDegree": 1,
+    "pictureUniversity": "http://www.ufma.br/portalUFMA/foto/destaque_miM78sd8KIH2sBD.jpg",
+    "university": "Universidade Federal do Maranhão",
+    "course": "BICT",
+    "yearCourseStart": 2018,
+    "yearCourseEnd": 2021
+  } 
+            ],
   "experiences": [{
     "idExperience": 1,
     "pictureCompany": "https://t.ctcdn.com.br/k-JaeioETU-Ar1XnwM-Lbi1bC88=/400x400/smart/i489949.jpeg",
