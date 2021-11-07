@@ -1,15 +1,15 @@
 [{
   "id": 1,
   "about": "sou um estudante de engenharia blá blá...",
-  "degree": {
+  "degree": [{
     "idDegree": 1,
     "pictureUniversity": "http://www.ufma.br/portalUFMA/foto/destaque_miM78sd8KIH2sBD.jpg",
     "university": "Universidade Federal do Maranhão",
     "course": "BICT",
     "yearCourseStart": 2018,
     "yearCourseEnd": 2021
-  },
-  "experiences": {
+  }],
+  "experiences": [{
     "idExperience": 1,
     "pictureCompany": "https://t.ctcdn.com.br/k-JaeioETU-Ar1XnwM-Lbi1bC88=/400x400/smart/i489949.jpeg",
     "company": "Apple",
@@ -17,9 +17,9 @@
     "startDate": "junho de 2019",
     "endDate": "janeiro de 2020",
     "place": "São Paulo, SP, Brasil"
-    },
-   "skills": {
+    }],
+   "skills": [{
     "idSkill": 1,
     "skill": "inglês - básico" 
-   }
+   }]
 }]
