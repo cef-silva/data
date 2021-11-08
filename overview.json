@@ -8,6 +8,17 @@
     "course": "BICT",
     "yearCourseStart": 2018,
     "yearCourseEnd": 2021
+  },
+             {
+  "id": 2,
+  "about": "sou um estudante de engenharia blá blá...",
+  "degree": [{
+    "idDegree": 1,
+    "pictureUniversity": "http://www.ufma.br/portalUFMA/foto/destaque_miM78sd8KIH2sBD.jpg",
+    "university": "Universidade Federal do Maranhão",
+    "course": "BICT",
+    "yearCourseStart": 2018,
+    "yearCourseEnd": 2021
   }
             ],
   "experiences": [{
