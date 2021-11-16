@@ -16,7 +16,13 @@
         "idDiscipline": 1,
         "nameDiscipline": "Banco de Dados",
         "yearDiscipline": 2019
-      }],
+      },
+                     {
+        "idDiscipline": 2,
+        "nameDiscipline": "Cálculo 1",
+        "yearDiscipline": 2019
+      }
+                    ],
       "projects":[{
         "idProjects": 1,
         "nameProject": "Projeto 1",
