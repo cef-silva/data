@@ -51,7 +51,40 @@
     "university": "Universidade Federal do Maranhão",
     "course": "BICT",
     "yearCourseStart": 2018,
-    "yearCourseEnd": 2021
+    "yearCourseEnd": 2021,
+    "activities":[{
+      "disciplines":[{
+        "idDiscipline": 1,
+        "nameDiscipline": "Banco de Dados",
+        "yearDiscipline": 2019
+      },
+                     {
+        "idDiscipline": 2,
+        "nameDiscipline": "Cálculo 1",
+        "yearDiscipline": 2019
+      }
+                    ],
+      "projects":[{
+        "idProjects": 1,
+        "nameProject": "Projeto 1",
+        "descriptionProject": "O projeto apresenta uma proposta simples sobre xxxxxxxxx xxxxxxxxxxx xx xxxxxxxxxxx xxxxxxxxxxx xxxxxxxx",
+        "yearProject": 2020
+      }],
+      "articleAndTcc":[{
+        "idArticleAndTcc": 1,
+        "nameArticleAndTcc": "Artigo",
+        "typeArticleAndTcc": "artigo",
+        "descriptionArticleAndTcc": "O Artigo é sobre um problema recorrente xxxxxxxxxxxxxxxxxx xxxxx xxx xxxxxxxxx xxxxxx",
+        "publicationDate": 2020,
+        "pdfArticleAndTcc": ""
+      }],
+      "othersActivities":[{
+        "idOthers": 1,
+        "nameOthers": "Atividade 1",
+        "descriptionOthers": "xxxxxx xxxx xxx xxx xxxxxx xxxxxxxxxx xxx xxxx xxxxxxx",
+        "dateOthers": 2019
+      }]
+  }]
   }
             ],
   "experiences": [{
