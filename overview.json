@@ -9,7 +9,35 @@
     "pictureUniversity": "http://www.ufma.br/portalUFMA/foto/destaque_miM78sd8KIH2sBD.jpg",
     "university": "Universidade Federal do Maranhão",
     "course": "Engenharia da Computação",
-    "yearCourseStart": 2022 
+    "yearCourseStart": 2022
+    "yearCourseEnd": "Atualmente",
+    "activities":[{
+      "disciplines":[{
+        "idDiscipline": 1,
+        "nameDiscipline": "Banco de Dados",
+        "yearDiscipline": 2019
+      }],
+      "projects":[{
+        "idProjects": 1,
+        "nameProject": "Projeto 1",
+        "descriptionProject": "O projeto apresenta uma proposta simples sobre xxxxxxxxx xxxxxxxxxxx xx xxxxxxxxxxx xxxxxxxxxxx xxxxxxxx",
+        "yearProject": 2020
+      }],
+      "articleAndTcc":[{
+        "idArticleAndTcc": 1,
+        "nameArticleAndTcc": "Artigo",
+        "typeArticleAndTcc": "artigo",
+        "descriptionArticleAndTcc": "O Artigo é sobre um problema recorrente xxxxxxxxxxxxxxxxxx xxxxx xxx xxxxxxxxx xxxxxx",
+        "publicationDate": 2020,
+        "pdfArticleAndTcc": ""
+      }],
+      "othersActivities":[{
+        "idOthers": 1,
+        "nameOthers": "Atividade 1",
+        "descriptionOthers": "xxxxxx xxxx xxx xxx xxxxxx xxxxxxxxxx xxx xxxx xxxxxxx",
+        "dateOthers": 2019
+      }]
+    }]
 }],
   "degree": [{
     "idDegree": 1,
