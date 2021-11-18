@@ -1,0 +1,218 @@
+{
+  "387": {
+    "title": "Introdução à Estatística",
+    "_id": 387,
+    "URL": "https://br.udacity.com/course/intro-to-statistics--st101",
+    "keywords": "Estatistic,Data science",
+    "description": "",
+    "provider": "Udacity"
+  },
+  "388": {
+    "title": "Introdução à Análise de Dados",
+    "_id": 388,
+    "URL": "https://br.udacity.com/course/intro-to-data-analysis--ud170",
+    "keywords": "Data science",
+    "description": "",
+    "provider": "Udacity"
+  },
+  "389": {
+    "title": "Introdução à Ciência de Dados",
+    "_id": 389,
+    "URL": "https://br.udacity.com/course/intro-to-data-science--ud359/",
+    "keywords": "Data science",
+    "description": "",
+    "provider": "Udacity"
+  },
+  "390": {
+    "title": "Análise de Dados com R",
+    "_id": 390,
+    "URL": "https://br.udacity.com/course/data-analysis-with-r--ud651/",
+    "keywords": "Data science",
+    "description": "",
+    "provider": "Udacity"
+  },
+  "394": {
+    "title": "Android Fundamentals",
+    "_id": 394,
+    "URL": "https://br.udacity.com/course/new-android-fundamentals--ud851/",
+    "keywords": "Android",
+    "description": "",
+    "provider": "Udacity"
+  },
+  "399": {
+    "title": "Design: A Criação de Artefatos na Sociedade",
+    "_id": 399,
+    "URL": "https://www.coursera.org/learn/design",
+    "keywords": "Design",
+    "description": "",
+    "provider": "Coursera"
+  },
+  "400": {
+    "title": "Dynamic Programming",
+    "_id": 400,
+    "URL": "https://www.udemy.com/dynamic-programming-i/",
+    "keywords": "Programming",
+    "description": "",
+    "provider": "Udemy"
+  },
+  "401": {
+    "title": "Embedded System Development Components",
+    "_id": 401,
+    "URL": "https://www.coursera.org/learn/introduction-embedded-systems/home/week/1",
+    "keywords": "Programming,C",
+    "description": "",
+    "provider": "Coursera"
+  },
+  "402": {
+    "title": "Functional Program Design in Scala",
+    "_id": 402,
+    "URL": "https://www.coursera.org/learn/progfun2/home/welcome",
+    "keywords": "Scala,Functional programming",
+    "description": "",
+    "provider": "Coursera"
+  },
+  "405": {
+    "title": "Functional Programming Principles in Scala",
+    "_id": 405,
+    "URL": "https://www.coursera.org/learn/progfun1/lecture/fsEgN/course-introduction",
+    "keywords": "Scala,Functional programming",
+    "description": "",
+    "provider": "Coursera"
+  },
+  "406": {
+    "title": "Game Design Document: Define the Art & Concept",
+    "_id": 406,
+    "URL": "https://www.coursera.org/learn/game-design-document",
+    "keywords": "Game development",
+    "description": "",
+    "provider": "Coursera"
+  },
+  "407": {
+    "title": "Graph Theory Algorithms",
+    "_id": 407,
+    "URL": "https://www.udemy.com/graph-theory-algorithms/",
+    "keywords": "Data Structures,Graph",
+    "description": "",
+    "provider": "Udemy"
+  },
+  "408": {
+    "title": "Intro to Point & Click App Development",
+    "_id": 408,
+    "URL": "https://br.udacity.com/course/intro-to-point-click-app-development--ud162/",
+    "keywords": "Android",
+    "description": "",
+    "provider": "Udacity"
+  },
+  "409": {
+    "title": "Intro to the Design of Everyday Things",
+    "_id": 409,
+    "URL": "https://classroom.udacity.com/courses/design101",
+    "keywords": "Design",
+    "description": "",
+    "provider": "Udacity"
+  },
+  "411": {
+    "title": "Introdução ao Desenvolvimento de Jogos",
+    "_id": 411,
+    "URL": "https://www.coursera.org/learn/game-development",
+    "keywords": "Game development",
+    "description": "",
+    "provider": "Coursera"
+  },
+  "412": {
+    "title": "Introdução ao Game Design",
+    "_id": 412,
+    "URL": "https://www.coursera.org/learn/game-design/home/welcome",
+    "keywords": "Game development",
+    "description": "",
+    "provider": "Coursera"
+  },
+  "417": {
+    "title": "Master all PHP ideas 2017 to build any project",
+    "_id": 417,
+    "URL": "https://www.udemy.com/master-all-php-ideas-2017-to-build-any-project/",
+    "keywords": "Web Development,PHP",
+    "description": "",
+    "provider": "Udemy"
+  },
+  "420": {
+    "title": "Princípios da programação funcional em Scala",
+    "_id": 420,
+    "URL": "https://www.coursera.org/learn/progfun1/home/welcome",
+    "keywords": "Scala",
+    "description": "",
+    "provider": "Coursera"
+  },
+  "421": {
+    "title": "Programming Languages, Part C",
+    "_id": 421,
+    "URL": "https://www.coursera.org/learn/programming-languages-part-c/",
+    "keywords": "Ruby",
+    "description": "",
+    "provider": "Coursera"
+  },
+  "422": {
+    "title": "R programming: Practical and Concise",
+    "_id": 422,
+    "URL": "https://www.udemy.com/r-programming-from-a-to-ztm-practical-and-concise/",
+    "keywords": "Data science,R",
+    "description": "",
+    "provider": "Udemy"
+  },
+  "427": {
+    "title": "The Complete Java Developer Course",
+    "_id": 427,
+    "URL": "https://www.udemy.com/java-essential-training/",
+    "keywords": "Java",
+    "description": "",
+    "provider": "Udemy"
+  },
+  "431": {
+    "title": "Compiler: Theory and Practice",
+    "_id": 431,
+    "URL": "https://classroom.udacity.com/courses/ud168",
+    "keywords": "Compiler",
+    "description": "",
+    "provider": "Udacity"
+  },
+  "432": {
+    "title": "DevOps for Operations - Infrastructure as code",
+    "_id": 432,
+    "URL": "https://www.udemy.com/devops-for-operations/",
+    "keywords": "Devops",
+    "description": "",
+    "provider": "Udemy"
+  },
+  "434": {
+    "title": "Master Object Oriented Design in Java - Homework + Solutions",
+    "_id": 434,
+    "URL": "https://www.udemy.com/mastering-object-oriented-design-in-java/",
+    "keywords": "SOLID,Object-oriented,Java",
+    "description": "",
+    "provider": "Udemy"
+  },
+  "435": {
+    "title": "Programming Foundations with JavaScript, HTML and CSS",
+    "_id": 435,
+    "URL": "https://www.coursera.org/learn/duke-programming-web/lecture/mwXUg/internet-web-and-communication",
+    "keywords": "HTML,CSS",
+    "description": "",
+    "provider": "Coursera"
+  },
+  "436": {
+    "title": "Front-End Web UI Frameworks and Tools: Bootstrap 4",
+    "_id": 436,
+    "URL": "https://www.coursera.org/learn/bootstrap-4/home/welcome",
+    "keywords": "bootstrap",
+    "description": "",
+    "provider": "Coursera"
+  },
+  "438": {
+    "title": "Programming Foundations with JavaScript, HTML and CSS",
+    "_id": 438,
+    "URL": "https://www.coursera.org/learn/duke-programming-web/home/welcome",
+    "keywords": "Front-end development,Codepen",
+    "description": "",
+    "provider": "Coursera"
+  }
+}
